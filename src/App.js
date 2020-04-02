@@ -18,16 +18,16 @@ const App = () => {
         <div>
           <Navbar />
           <Switch>
-            <Route path='/'>
+            <Route path='/react-app-portfolio-update/'>
               <Home />
             </Route>
-            <Route exact path='/about'>
+            <Route exact path='/react-app-portfolio-update/about'>
               <About />
             </Route>
-            <Route exact path='/portfolio'>
+            <Route exact path='/react-app-portfolio-update/portfolio'>
               <Portfolio />
             </Route>
-            <Route exact path='/contact'>
+            <Route exact path='/react-app-portfolio-update/contact'>
               <Contact />
             </Route>
           </Switch>

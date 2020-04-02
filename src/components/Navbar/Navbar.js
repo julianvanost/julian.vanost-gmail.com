@@ -12,10 +12,10 @@ const Navbar = () => {
       </button>
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
-          <Link className="nav-item nav-link" to='/'>Home</Link>
-          <Link className="nav-item nav-link" to='/about'>About</Link>
-          <Link className="nav-item nav-link" to='/portfolio'>Portfolio</Link>
-          <Link className="nav-item nav-link" to='/contact'>Contact</Link>
+          <Link className="nav-item nav-link" to='/react-app-portfolio-update/'>Home</Link>
+          <Link className="nav-item nav-link" to='/react-app-portfolio-update/about'>About</Link>
+          <Link className="nav-item nav-link" to='/react-app-portfolio-update/portfolio'>Portfolio</Link>
+          <Link className="nav-item nav-link" to='/react-app-portfolio-update/contact'>Contact</Link>
         </div>
       </div>
     </nav>
